@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Namasté , I'm <a href="https://adxy.dev" target="blank">
+Adarsh!</a></h1>
+<br>
+<h3 align="center">A Fullstack Software Engineer based in Delhi, India.</h3>
+<br>
+<br>
 
-<!--
-**adxy/adxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" align="center">
+  <img align="right" top="500"  height="210" width="130" alt="rocket-image" src="/public/images/rocket.png">
+</a>
 
-Here are some ideas to get you started:
+- 🤝 Checkout my website on  <a href="https://adxy.dev" target="blank">https://adxy.dev</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently exploring these topics: <a href="https://webrtc.org/" target="blank">WebRTC</a>
+
+
+- ⚒️ My latest project  <a href="https://chesskhelo.in" target="blank">https://chesskhelo.in</a>
+
+- 📫 Reach me at theadxy@gmail.com
+
+- 📖 Read this article on Artificial Neural Networks <a href="https://www.adxy.dev/writings/what-is-a-neural-network-visualising-&-understanding-a-neural-network-in-depth" target="blank">here.</a>
+
+- 🤝 Connect with me on <a href="https://twitter.com" target="blank">Twitter</a> & <a href="https://www.linkedin.com/in/adxy/" target="blank">LinkedIn</a>
