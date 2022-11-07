@@ -6,7 +6,7 @@ Adarsh!</a></h1>
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500"  height="210" width="130" alt="rocket-image" src="/public/images/rocket.png">
+  <img align="right" top="500"  height="210" width="130" alt="rocket-image" src="rocket.png">
 </a>
 
 - 🤝 Checkout my website on  <a href="https://adxy.dev" target="blank">https://adxy.dev</a>
@@ -20,4 +20,4 @@ Adarsh!</a></h1>
 
 - 📖 Read this article on Artificial Neural Networks <a href="https://www.adxy.dev/writings/what-is-a-neural-network-visualising-&-understanding-a-neural-network-in-depth" target="blank">here.</a>
 
-- 🤝 Connect with me on <a href="https://twitter.com" target="blank">Twitter</a> & <a href="https://www.linkedin.com/in/adxy/" target="blank">LinkedIn</a>
+- 🤝 Connect with me on <a href="https://twitter.com/theadxy" target="blank">Twitter</a> & <a href="https://www.linkedin.com/in/adxy/" target="blank">LinkedIn</a>
