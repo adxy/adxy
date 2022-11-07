@@ -6,7 +6,7 @@ Adarsh!</a></h1>
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500"  height="210" width="130" alt="rocket-image" src="rocket.png">
+  <img align="right" top="500"  height="210" width="130" alt="rocket-image" src="https://raw.githubusercontent.com/adxy/adxy/main/public/images/rocket.png">
 </a>
 
 - 🤝 Checkout my website on  <a href="https://adxy.dev" target="blank">https://adxy.dev</a>
