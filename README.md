@@ -21,3 +21,9 @@ Adarsh!</a></h1>
 - 📖 Read this article on Artificial Neural Networks <a href="https://www.adxy.dev/writings/what-is-a-neural-network-visualising-&-understanding-a-neural-network-in-depth" target="blank">here.</a>
 
 - 🤝 Connect with me on <a href="https://twitter.com/theadxy" target="blank">Twitter</a> & <a href="https://www.linkedin.com/in/adxy/" target="blank">LinkedIn</a>
+
+<br>
+<br>
+<h3 align="center">Open Source Contributions</h3>
+
+- ⭐ Fixed a bug on [dev.to](https://dev.to) ([forem](https://github.com/forem/forem)) ([Link to Issue](https://github.com/forem/forem/issues/16998) | [Link to PR](https://github.com/forem/forem/pull/18909)) 
